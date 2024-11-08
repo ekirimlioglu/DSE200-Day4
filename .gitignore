@@ -1,2 +1,11 @@
 .env
 .venv/
+
+**/answerkey.ipynb
+
+**/student_code/*
+
+Day3-Activity-Results/financial_predictions.png
+Day3-Activity-Results/review.ipynb
+
+**/lab_answers.ipynb
